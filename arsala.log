@@ -1,0 +1,29 @@
+[Running] python -u "c:\Users\DELL\OneDrive\Desktop\arsala\tempCodeRunnerFile.py"
+First number = 10
+Second number = 5
+Third number = 2
+Sum = 17
+Difference = 3
+Product = 100
+Average = 5.666666666666667
+
+[Done] exited with code=0 in 0.188 seconds
+
+[Running] python -u "c:\Users\DELL\OneDrive\Desktop\arsala\tempCodeRunnerFile.py"
+Area of Triangle = 25.0
+Area of Square = 16
+Area of Circle = 153.86
+Area of Rectangle = 24
+
+[Done] exited with code=0 in 0.159 seconds
+
+[Running] python -u "c:\Users\DELL\OneDrive\Desktop\arsala\tempCodeRunnerFile.py"
+Before swapping:
+a = 10
+b = 5
+After swapping:
+a = 5
+b = 10
+
+[Done] exited with code=0 in 0.154 seconds
+
