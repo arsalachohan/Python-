@@ -1,0 +1,16 @@
+Enter your age: 23
+You are categorized as: Adult
+Enter a number: 16
+The number is positive.
+First item: 10
+Last item: 50
+All numbers in the list:
+10
+20
+30
+40
+50
+Original dictionary: {'name': 'Arsala', 'age': '23', 'city': 'Antarctica'}
+Updated dictionary: {'name': 'Arsala', 'age': 23, 'city': 'Antarctica'}
+
+=== Code Execution Successful ===
